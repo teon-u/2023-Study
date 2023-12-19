@@ -36,3 +36,14 @@ Poker.txt 데이터를 읽고, 포커게임의 승패를 나타내는 과제.
 
 
 https://lookerstudio.google.com/reporting/b03a6cba-460f-47bf-8d80-871d69065cb4
+
+
+
+## TESLA-Log
+테슬라 사설 API (TeslaMate)로 수집된 데이터의 백업파일 (Docker Bck)에서 데이터를 추출, 시각화하는 과제.
+
+분석할 시간이 부족해서 Docker 환경을 구성할 수 없었고, 분석을 위해 간단히 UTF-16 LE Text로 읽어서 데이터를 "긁어냄".
+
+원본 데이터는 크기가 있어 아래 링크에 있음. ↓
+
+https://drive.google.com/file/d/1djYPGggNeK8oZsTWNRugnAP-oej3yE63/view?usp=drive_link
