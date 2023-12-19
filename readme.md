@@ -1,6 +1,6 @@
 # 2023년 공부한 내용 (혹은 잡다한 과제들)
 
-## TESLA-Log
+## TESLA-Log (컨설팅 수요기업 부산시장상 수상)
 ![image](https://github.com/teon-u/2023-Study/assets/89633138/5f3864ac-99c2-48e6-ab18-ec7e1311748c)
 
 테슬라 사설 API (TeslaMate)로 수집된 데이터의 백업파일 (Docker Bck)에서 데이터를 추출, 시각화하는 과제.
