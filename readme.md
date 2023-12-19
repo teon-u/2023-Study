@@ -11,6 +11,10 @@
 
 https://drive.google.com/file/d/1djYPGggNeK8oZsTWNRugnAP-oej3yE63/view?usp=drive_link
 
+과제 전체 내용 ↓
+
+Notion 링크 추가 예정
+
 ---
 
 
