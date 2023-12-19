@@ -11,6 +11,8 @@
 
 https://drive.google.com/file/d/1djYPGggNeK8oZsTWNRugnAP-oej3yE63/view?usp=drive_link
 
+---
+
 
 
 
@@ -30,6 +32,8 @@ https://drive.google.com/file/d/1djYPGggNeK8oZsTWNRugnAP-oej3yE63/view?usp=drive
 
 https://lookerstudio.google.com/reporting/b03a6cba-460f-47bf-8d80-871d69065cb4
 
+---
+
 
 
 
@@ -42,6 +46,8 @@ API는 비싸서 Selenium으로 계정 로그인, 자동화하려고 했었음.
 
 
 그런데 어느날 보니 3시간 40건 이용으로 조정되어 필요없어지며 개발 중단함.
+
+---
 
 
 
