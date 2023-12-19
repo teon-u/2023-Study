@@ -1,6 +1,8 @@
 # 2023년 공부한 내용 (혹은 잡다한 과제들)
 
 ## TESLA-Log
+![image](https://github.com/teon-u/2023-Study/assets/89633138/5f3864ac-99c2-48e6-ab18-ec7e1311748c)
+
 테슬라 사설 API (TeslaMate)로 수집된 데이터의 백업파일 (Docker Bck)에서 데이터를 추출, 시각화하는 과제.
 
 분석할 시간이 부족해서 Docker 환경을 구성할 수 없었고, 분석을 위해 간단히 UTF-16 LE Text로 읽어서 데이터를 "긁어냄".
@@ -14,6 +16,8 @@ https://drive.google.com/file/d/1djYPGggNeK8oZsTWNRugnAP-oej3yE63/view?usp=drive
 
 
 ## Traditional-Market-Parking
+![image](https://github.com/teon-u/2023-Study/assets/89633138/df49fde0-bf8b-4751-9aaf-aadfa8b23c62)
+
 전통시장의 주차 데이터를 전처리하는 과정.
 
 
