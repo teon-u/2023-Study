@@ -16,7 +16,8 @@ https://drive.google.com/file/d/1djYPGggNeK8oZsTWNRugnAP-oej3yE63/view?usp=drive
 
 
 ## Traditional-Market-Parking
-![image](https://github.com/teon-u/2023-Study/assets/89633138/df49fde0-bf8b-4751-9aaf-aadfa8b23c62)
+![image](https://github.com/teon-u/2023-Study/assets/89633138/34278763-aecb-451c-8e35-2e2072013929)
+
 
 전통시장의 주차 데이터를 전처리하는 과정.
 
