@@ -1,5 +1,30 @@
 # 2023년 공부한 내용 (혹은 잡다한 과제들)
 
+## TESLA-Log
+테슬라 사설 API (TeslaMate)로 수집된 데이터의 백업파일 (Docker Bck)에서 데이터를 추출, 시각화하는 과제.
+
+분석할 시간이 부족해서 Docker 환경을 구성할 수 없었고, 분석을 위해 간단히 UTF-16 LE Text로 읽어서 데이터를 "긁어냄".
+
+원본 데이터는 크기가 있어 아래 링크에 있음. ↓
+
+https://drive.google.com/file/d/1djYPGggNeK8oZsTWNRugnAP-oej3yE63/view?usp=drive_link
+
+
+
+## Traditional-Market-Parking
+전통시장의 주차 데이터를 전처리하는 과정.
+
+
+매우 더러운 데이터를 전처리하는 극단적인 예시.
+
+
+결과물은 Looker Studio로 시각화했음. ↓
+
+
+https://lookerstudio.google.com/reporting/b03a6cba-460f-47bf-8d80-871d69065cb4
+
+
+
 ## Paper-Summary
 Chat-GPT를 이용, 자동으로 논문을 번역하고 요약해주는 애플리케이션을 만드려 했음.
 
@@ -26,26 +51,6 @@ Poker.txt 데이터를 읽고, 포커게임의 승패를 나타내는 과제.
 
 
 
-## TESLA-Log
-테슬라 사설 API (TeslaMate)로 수집된 데이터의 백업파일 (Docker Bck)에서 데이터를 추출, 시각화하는 과제.
-
-분석할 시간이 부족해서 Docker 환경을 구성할 수 없었고, 분석을 위해 간단히 UTF-16 LE Text로 읽어서 데이터를 "긁어냄".
-
-원본 데이터는 크기가 있어 아래 링크에 있음. ↓
-
-https://drive.google.com/file/d/1djYPGggNeK8oZsTWNRugnAP-oej3yE63/view?usp=drive_link
 
 
 
-
-## Traditional-Market-Parking
-전통시장의 주차 데이터를 전처리하는 과정.
-
-
-매우 더러운 데이터를 전처리하는 극단적인 예시.
-
-
-결과물은 Looker Studio로 시각화했음. ↓
-
-
-https://lookerstudio.google.com/reporting/b03a6cba-460f-47bf-8d80-871d69065cb4
