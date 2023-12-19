@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1djYPGggNeK8oZsTWNRugnAP-oej3yE63/view?usp=drive
 
 과제 전체 내용 ↓
 
-Notion 링크 추가 예정
+https://teon-u.notion.site/RTM-9c926cf6133e40b89164e9e4259d486a
 
 ---
 
